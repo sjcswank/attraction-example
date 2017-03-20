@@ -1,0 +1,25 @@
+body {
+  padding-top: 50px;
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    color: #fff;
+    font-family: 'Anton', sans-serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+.tabs {
+    padding-top:20px;
+}
+
+.tab {
+    background-color: #fff;
+    border-color: #000;
+    margin: 5px;
+}
